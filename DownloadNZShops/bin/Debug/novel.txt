@@ -1,0 +1,1 @@
+[{"Url":"http://www.2100game.com/0_252/0.html","LastChapterNo":"2098","ListXPath":"//div[@id='list']//a","ContentXPath":"//div[@id='content']//p"},{"Url":"http://www.mdxs.com/xiaoshuo/html/0/306/index.html","LastChapterNo":"2098","ListXPath":"//div[@id='readtext']//a","ContentXPath":"//div[@id='readtext']"}]
