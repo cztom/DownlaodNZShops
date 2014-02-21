@@ -76,6 +76,6 @@ namespace DownloadNZShops
         /// 创建时间
         /// </summary>
         [BsonDateTimeOptions(Kind = DateTimeKind.Local)]
-        public DateTime CreateTime { get; set; }
+        public DateTime LastModified { get; set; }
     }
 }

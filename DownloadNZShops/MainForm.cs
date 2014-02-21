@@ -277,7 +277,7 @@ namespace DownloadNZShops {
             shop.IsCertified = false;
             shop.BusinessHours = null;
             shop.OriginalUrl = shopLink.Href;
-            shop.CreateTime = DateTime.Now;
+            shop.LastModified = DateTime.Now;
 
             MongoDBHelper db = new MongoDBHelper();
             db.Insert<Shop>(shop);

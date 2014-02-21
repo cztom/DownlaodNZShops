@@ -89,7 +89,6 @@
     <Compile Include="TraceForm.Designer.cs">
       <DependentUpon>TraceForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="WebSpider.cs" />
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -123,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="kiwi.ico" />
-    <Content Include="未标题-1.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
